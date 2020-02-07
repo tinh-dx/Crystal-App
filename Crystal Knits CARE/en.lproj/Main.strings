@@ -1,0 +1,34 @@
+// Form Login
+"FzS-UT-ShU.normalTitle" = "LOGIN";
+"eow-sk-SJr.placeholder" = "Password";
+"sD9-gx-BlH.placeholder" = "LoginID";
+"yU2-dL-6wM.normalTitle" = "FORGOT PASSWORD / REGISTER";
+"7n0-rY-fIB.normalTitle" = "GUEST LOGIN";
+// Form Active User
+"hSU-uH-gGT.text" = "Active & Change Password";
+"z3E-U1-yZI.text" = "FullName";
+"Zas-B9-afs.text" = "Phone Number ";
+"AGl-sr-j3g.text" = "Status";
+"fCn-W1-H4y.text" = "Please enter your phone number and click GET CODE. System auto send active code via SMS.";
+"boe-TB-RSY.placeholder" = "e.g: 0987654321";
+"QNQ-g9-Z6z.text" = "Enter your code to ACTIVE";
+"ETO-tv-8gJ.placeholder" = "Active Code";
+"7Ba-X9-tx7.normalTitle" = "GET CODE";
+"gW4-q4-bCM.normalTitle" = "ACTIVE";
+"Irm-qc-iXe.text" = "Change Password";
+// SETTING
+"deZ-Pm-EGe.text" = "Change Password";
+"4aa-QZ-YXl.text" = "Change Pphone number";
+"oQH-Da-hqT.text" = "Login History";
+"5GU-qL-eft.placeholder" = "Old Password";
+"TnZ-gE-lB2.placeholder" = "New Password";
+"e4m-oa-JSA.placeholder" = "Re-enter New Password";
+// Change Phone
+"7TX-rT-cpT.text" = "Change Phone Number";
+"rYJ-UU-s4a.text" = "Old Phone   :";
+"x5v-3R-lED.text" = "New Phone :";
+"zwU-jV-FTQ.text" = "Password     :";
+"uwf-mf-Mzl.normalTitle" = "CANCEL";
+"Da4-WU-Z4i.normalTitle" = "UPDATE";
+"tSX-vg-ZWR.text" = "*** After change system will send alert SMS to your old phone !";
+

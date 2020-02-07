@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "FzS-UT-ShU"; */
+"FzS-UT-ShU.normalTitle" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eow-sk-SJr"; */
+"eow-sk-SJr.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "LoginID"; ObjectID = "sD9-gx-BlH"; */
+"sD9-gx-BlH.placeholder" = "LoginID";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD / REGISTER"; ObjectID = "yU2-dL-6wM"; */
+"yU2-dL-6wM.normalTitle" = "FORGOT PASSWORD / REGISTER";

@@ -1,0 +1,33 @@
+// Form Login
+"FzS-UT-ShU.normalTitle" = "ĐĂNG NHẬP";
+"eow-sk-SJr.placeholder" = "Mật khẩu";
+"sD9-gx-BlH.placeholder" = "Tài khoản";
+"yU2-dL-6wM.normalTitle" = "QUÊN MẬT KHẨU / ĐĂNG KÝ";
+"7n0-rY-fIB.normalTitle" = "KHÁCH ĐĂNG NHẬP";
+// Form Active User
+"hSU-uH-gGT.text" = "Kích Hoạt & Đổi Mật Khẩu";
+"z3E-U1-yZI.text" = "Họ tên";
+"Zas-B9-afs.text" = "Số điện thoại ";
+"AGl-sr-j3g.text" = "Trạng thái";
+"fCn-W1-H4y.text" = "Vui lòng nhập đầy đủ số điện thoại và nhấn TẠO MÃ. Hệ thống sẽ tự động gửi tin nhắn SMS mã kích hoạt cho bạn.";
+"boe-TB-RSY.placeholder" = "vd:0987654321";
+"QNQ-g9-Z6z.text" = "Nhập mã kịch hoạt";
+"ETO-tv-8gJ.placeholder" = "Mã kích hoạt";
+"7Ba-X9-tx7.normalTitle" = "TẠO MÃ";
+"gW4-q4-bCM.normalTitle" = "KÍCH HOẠT";
+"Irm-qc-iXe.text" = "Đổi Mật Khẩu";
+// SETTING
+"deZ-Pm-EGe.text" = "Đổi mật khẩu";
+"4aa-QZ-YXl.text" = "Đổi số điện thoại";
+"oQH-Da-hqT.text" = "Lịch sử đăng nhập";
+"5GU-qL-eft.placeholder" = "Mật khẩu cũ";
+"TnZ-gE-lB2.placeholder" = "Mật khẩu mới";
+"e4m-oa-JSA.placeholder" = "Nhập lại mật khẩu mới";
+// Change Phone
+"7TX-rT-cpT.text" = "ĐỔI SỐ ĐIỆN THOẠI";
+"rYJ-UU-s4a.text" = "Số Cũ     :";
+"x5v-3R-lED.text" = "Số Mới    :";
+"zwU-jV-FTQ.text" = "Mật khẩu :";
+"uwf-mf-Mzl.normalTitle" = "HUỶ";
+"Da4-WU-Z4i.normalTitle" = "CẬP NHẬT";
+"tSX-vg-ZWR.text" = "*** Sau khi thay đổi hệ thống sẽ tự động gởi SMS cảnh báo đến số điện thoại cũ!";
